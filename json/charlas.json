@@ -1,0 +1,712 @@
+{
+
+  "charlas": [
+    {
+      "nombre": "Rafael Miguel Dorville Collado",
+      "hora": "09:00 AM",
+      "charla": "Análisis de Redes Sociales",
+      "abstract": "Hoy en día vivimos en un mundo en que los individuos, las instituciones y los grupos están interconectados. Los patrones de conexión entre elementos forman un “espacio social” que se aprecia en múltiples contextos,  pudiendo estudiar la influencia de un individuo dentro de su circulo.",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "Beginner",
+      "tags": [
+        "Machine Learning",
+        ",Computing",
+        "Big Data"
+      ],
+      "description": "El análisis de redes sociales es la aplicación de la teoría de redes al modelado y análisis de sistemas sociales, combinando distintas herramientas para analizar las relaciones sociales, pero también haciendo uso de la teoría para así explicar las estructuras que surgen de las interacciones sociales.",
+      "socials": [
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/rm_dorville"
+        },
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com/in/rmdorville/"
+        }
+      ]
+    },
+    {
+      "nombre": "Lisibonny Beato",
+      "hora": "10:00 AM",
+      "charla": "Procesamiento de Lenguaje Natural con Python: un vistazo a la librería Pattern",
+      "abstract": "El Procesamiento de Lenguaje Natural (NLP, por sus siglas en inglés) es un campo de la ciencias de la computación con gran auge, dada las importantes aplicaciones que tiene en la era de la Web 2.0. En esta charla/taller veremos la librería Pattern de Python para abordar tareas de NLP mediante un enfoque muy práctico, donde los participantes tendrán la oportunidad de interactuar con la librería.",
+      "formato": "Workshop (> 60 minutes)",
+      "audienceLevel": "Intermediate",
+      "tags": [
+        "NLP",
+        "Python"
+      ],
+      "description": "El Procesamiento de Lenguaje Natural (NLP, por sus siglas en inglés) se refiere a la manipulación del lenguaje mediante el uso de computadoras y el objetivo es encontrar mecanismos eficaces para la comunicación entre los humanos y las maquinas mediante el uso del lenguaje natural. El NLP es una confluencia de distintas disciplinas tales como las Ciencias de la Computación, la lingüística, la estadística, entre otras. Con la explosión que ha sucedido en los últimos años en la generación de datos textuales que son almacenados en medios electrónicos gracias a las Redes Sociales y a otras plataformas, esta área se ha convertido en una de mucho interés. Tareas como la traducción automática de textos, la clasificación de textos con distintos fines (filtrado de spam, categorización de documentos por tópicos, análisis de sentimientos, entre otros ), la recuperación de información, el entendimiento y generación de lenguaje natural (para el diseño de Bots, por ejemplo, la extracción de información y los correctores automáticos son solo algunos ejemplos de las aplicaciones que tiene este campo. Python, por su naturaleza, es un lenguaje poderosísimo para trabajar con texto escrito. En esta charla proponemos dar un vistazo a las principales tareas de NLP y específicamente mostrar de manera práctica y mediante la librería Pattern de Python como estas tareas pueden acometerse tanto para textos escritos en el idioma inglés como en el español, con los distintos recursos que esta ofrece."
+    },
+    {
+      "nombre": "Carlos Camacho",
+      "hora": "02:00 PM",
+      "bio": "Más de 11 años de experiencia en desarrollo de software bajo la plataforma Java, implementación de proyectos de código libre y desarrollo e integración de proyectos embedidos en Arduino y Raspberry Pie. Graduado de Ingeniería Telemática, Master en Tecnología Educativa. Profesor de las carreras de Ingeniería de Sistemas y Computación e Ingeniería Telemática de la PUCMM. Actualmente es el Director de la escuela de Ingeniería en Computación y Telecomunicaciones Campus Santiago PUCMM. Miembro de la Fundación Código Libre y Cofundador de Java User Group, Java Dominicano.",
+      "charla": "Taller sobre coordinación de sistemas distribuidos bajo Spring Cloud",
+      "abstract": "Cada día la nube y las aplicaciones basadas en una arquitectura basada en micro servicios son tendencia en el desarrollo de nuevas aplicaciones, coordinar de forma efectiva cada uno de los componentes puede ser un trabajo muy demandante para equipos pequeños, pero gracias a la tecnologia de Spring Boot con la suite de aplicaciones de Spring Cloud podemos desde el principio y con muy poco esfuerzo crear aplicaciones nativas lista para correr en la nube.",
+      "description": "En nuestro taller estaremos utilizando Spring Boot y las librerías disponible bajo Spring Cloud y Netflix OSS (Open Source Software ) para crear una aplicación funcional y lista para correr en La Nube probando las siguientes tecnologías: - Servidor de Configuración. - Servidor de Descubrimiento de Servicios. - Servidor Perimetral - Balanceador de Carga. - Aplicación Microservicios.",
+      "formato": "Workshop (> 60 minutes)",
+      "audienceLevel": "Intermediate",
+      "tags": [
+        "Java",
+        "Cloud",
+        "Spring Boot",
+        "Spring Cloud"
+      ],
+      "socials": [
+        {
+          "icon": "fab fa-github-alt",
+          "name": "Github",
+          "link": "https://github.com/vacax"
+        },
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com/in/ccamachog/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/ccamachog"
+        }
+      ]
+    },
+    {
+      "nombre": "Luis Miguel Burdier",
+      "hora": "04:00 PM",
+      "Pais": "Dominican Republic, Bonao",
+      "charla": "Cásate con Flask y Python",
+      "abstract": "No nos compliquemos, usemos Flask y Python para proyectos rápidos y divertidos o para tus proyectos universitarios...O para tu empresa. Será  divertido.",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "Beginner",
+      "tags": [
+        "Python",
+        "Flask"
+      ],
+      "description": "Cásate con Flask y Python. ¿Qué es Flask? Flask es un microframework web ligero creado con el lenguaje de programación Python, esta diseñado para iniciar un proyecto rápido y fácil, tiene la facilidad de pasar de un proyecto simple a uno complejo.",
+      "socials": [
+        {
+          "icon": "fas fa-link",
+          "name": "Link",
+          "link": "https://burdierblog.netlify.com/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/BurdierLuis"
+        }
+      ]
+    },
+    {
+      "nombre": "Aluis Marte",
+      "bio":"Soy un apasionado Ingeniero con más 4+ años de experiencia desarrollando aplicaciones en Java y Android con perfil Web, Desktop y Mobile. Me fascina el hecho de afrontar retos bien complejos sin importar la dificultad en temas con alto nivel matemático, algorítmico y código limpio.",
+      "hora": "09:00 AM",
+      "Pais": "Dominican Republic",
+      "abstract": "Eres amante del desarrollo de aplicaciones web en java, pero quieres tener componentes web sin dejar de lado las facilidades que entrega JAVA? Entonces Vaadin 14, Spring Boot y esta charla te mostrarán como hacer posible esta integración con muy pocas lineas de código y obtener resultados rápidos.",
+      "charla": "Java, Spring Boot y Vaadin 14",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "Vaadin",
+        "Vaadin14",
+        "JPA"
+      ],
+      "description": "Con la llegada de más Frameworks orientados a componentes, el desarrollo en java para aplicaciones mas modernas es más intenso y esto a hecho evolucionar a Vaadin a un punto donde el diseñador, el desarrollador BackEnd y el hecho de usar componentes web ya es una realidad en java con una integración muy sencilla usando Vaadin 14.",
+      "socials": [
+        {
+          "icon": "fab fa-github-alt",
+          "name": "Github",
+          "link": "https://github.com/aluismarte"
+        }
+      ]
+    },
+    {
+      "nombre": "Héctor Ventura",
+      "hora": "10:00 AM",
+      "formato": "Talk (~30-45 minutes",
+      "audienceLevel": "All",
+      "bio": "Más de 10 años de experiencia en diseño y arquitectura de software. \n - Más 10 años de experiencias en tecnologías Java.       -        Egresado de la escuela de informática en UASD       -        Profesor ITLA Santiago.       -        Miembro de: -        Fundación Código Libre Dominicana (FCLD)-        Comunidad Java Dominicano. Soy apasionado de la lectura y la tecnología. Fiel seguidor de la solución a los problemas. Amante del buen código y el café, y sobretodo la soledad.@hectorvent(telegram, twitter,  github, gmail",
+      "charla": "Quarkus, Supersónico y Subatómico Java Cloud Native Framework",
+      "abstract": "Sabemos que Java sigue presente en muchas áreas y empresas, pero con el auge de las tecnologías en las nubes, los contenedores y las funciones o serverless como se le conocen, Java ha perdido terreno.",
+      "description": ""
+    },
+    {
+      "nombre": "Luis César Contreras",
+      "hora": "11:00 AM",
+      "Pais": "Dominican Republic",
+      "abstract": "Algunas veces resulta díficil saber y seguir el state actual de tu SPA (Single Page Application). Usualmente, te ayudas del uso de un sin numero de flags (booleans) para tomar decisiones sobre el state de tu app. Con XState, puedes simplificar esta situación, usando Máquinas de Estado.",
+      "charla": "Better state handling for React applications using XState",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "Intermediate",
+      "tags": [
+        "Javascript",
+        "React"
+      ],
+      "description": "Ser Frontend Developer en estos días tiene sus desafíos. Tenemos que considerar muchas variables a la hora de desarrollar una web app, algunas controladas otras no, como por ejemplo: accesibilidad, rendimiento, conexión a Internet, browsers, sistemas operativos, etc.  ",
+      "socials": [
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/devrasec"
+        }
+      ]
+    },
+    {
+      "nombre": "Mitra Mejía",
+      "hora": "02:00 PM",
+      "abstract": "Las habilidades técnicas y la experiencia solo te llevarán hasta cierto punto. Esta charla expone las características de comportamiento críticas y mentalidades que los distinguen a los buenos desarrolladores de la multitud.",
+      "charla": "Top Developer Habits",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "tags": [
+        "habits",
+        "improvement",
+        "developer",
+        "programming"
+      ],
+      "description": "No me enfocaré en las cosas técnicas. Mas bien, hablaremos sobre algunos hábitos que son claves para convertirse en un mejor desarrollador. Si comparamos los currículums de dos desarrolladores de software. Ambos candidatos poseen experiencias y habilidades similares. Sin embargo, hay ciertas cosas que podrían indicar que el uno tendrá más éxito en su carrera que otro. ¿Cuales son estas características? Espero contestar esta y mas preguntas en esta edición de Barcamp 2019",
+      "socials": [
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/mitramejia"
+        }
+      ]
+    },
+    {
+      "nombre": "Dewyn Liriano y César Vargas",
+      "hora": "03:00 PM",
+      "abstract": "Join us in this desconference to learn how at Resonance we are revolutionizing a $3 trillion global industry. The fashion industry has not changed in more than 40 years, and it is one the most polluting industries. It has also lost it's soul by leaving creators behind At Resonance we have re-imagined what it means to write software. By using a learning framework, Resonance is changing the game by providing a creation-driven platform (ONE) that allows creators and brands worldwide to Create, Sell and Make (in that order!) elevated, sustainable and beautiful fashion - reducing the manufacturing time from 9 month to just 6 days. With our disruptive ideas we are not only changing the game we are also changing the way software is built. We will be showcasing a live video and demonstration of ONE so please come to learn and experience how we are Doing Something Really F* Big from Santiago. Creation-driven fashion is the future. LVMH, Inditex, Amazon Fashion, Nike are the Goliath, we are David.",
+      "charla": "How the fashion industry regained its soul: App development with emergent behavior no-coding",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "tags": [
+        "Resonance"
+      ],
+      "description": "Join us in this desconference to learn how at Resonance we are revolutionizing a $3 trillion global industry. The fashion industry has not changed in more than 40 years, and it is one the most polluting industries. It has also lost it's soul by leaving creators behind At Resonance we have re-imagined what it means to write software. By using a learning framework, Resonance is changing the game by providing a creation-driven platform (ONE) that allows creators and brands worldwide to Create, Sell and Make (in that order!) elevated, sustainable and beautiful fashion - reducing the manufacturing time from 9 month to just 6 days. With our disruptive ideas we are not only changing the game we are also changing the way software is built. We will be showcasing a live video and demonstration of ONE so please come to learn and experience how we are Doing Something Really F* Big from Santiago. Creation-driven fashion is the future. LVMH, Inditex, Amazon Fashion, Nike are the Goliath, we are David.",
+      "socials": [
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com/in/cavp28/"
+        },
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "http://twitter.com/dewynliriano"
+        }
+      ]
+    },
+    {
+      "nombre": "Gregory Pilar",
+      "hora": "04:00 PM",
+      "charla": "Zero-Downtime Web Apps for ASP .NET Core",
+      "abstract": "En toda aplicación hay un momento donde se debe hacer alguna actualización, en ese punto surge la pregunta, ¿cómo hacerla sin impactar? Veamos que podemos utilizar para hacer actualizar una aplicación sin tener que hacer sacar la aplicación fuera de línea, o al menos que nadie se dé cuenta.",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "Intermediate",
+      "tags": [
+        "Azure",
+        "DevOps",
+        "Netcore",
+        "tech"
+      ],
+      "description": "Esta charla está basada en mostrar cuales son las mejores prácticas para tomar en cuenta para lograr tener despliegues de aplicativos sin que los usuarios no se percaten, como poder utilizar opciones de Azure DevOps, .Net Core y Azure DevOps Pipelines para mostrar estrategias que pueden ayudar a lograr el objetivo, utilizando ejemplos de aplicativos reales en las cuales he trabajado en los ultimos años como Senior DevOps engineer.",
+      "socials": [
+        {
+          "icon": "fas fa-link",
+          "name": "Link",
+          "link": "https://underframework.net/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/gregorypilar"
+        }
+      ]
+    },
+    {
+      "nombre": "Luis Contreras",
+      "hora": "09:00 AM",
+      "bio": "System Administrator in a mixed environment (Linux & Windows), with strong knowledge in databases. Adding automation tool like Ansible and monitoring tool like Nagios, Centreon and Op5. I enjoy to work in a dynamic environment where everyday there is something new to learn. I have a proven experience in System / Network Administration, and developing monitoring projects, including complex integrations and developing Nagios plugins in Python, PHP and PowerShell. My experience is based in Retail, Government, Health and IT Services industry. I'm currently holding the following certifications: MTA, LPI, NCA, NCP, NSE-1, NSE-2, NSE-3 ",
+      "Pais": "Dominican Republic",
+      "charla": "¿Cómo me convertí en integrador?",
+      "abstract": "Esta charla es sobre he llevado la monitorización al siguiente nivel, y empezar a realizar integraciones, utilizando lenguajes nativo de las herramientas de monitoreo como PHP y Perl. Estaré mostrando algunos ejemplos interesantes.",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "Intermediate",
+      "tags": [],
+      "description": "",
+      "socials": [
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/doluiscontreras"
+        },
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com/in/luiscontrerasdo/"
+        }
+      ]
+    },
+    {
+      "nombre": "Juan Carlos Camacho",
+      "hora": "10:00 AM",
+      "charla": "Flutter's here!",
+      "abstract": "Nowadays, mobile users expect their applications to have a beautiful design + smooth animations + great performance to offer developers the need to create a new feature faster than ever without compromising quality or performance. With flutter you can develop IOS, Android and Google fuchsia apps.",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "Beginner",
+      "tags": [
+        "Flutter",
+        "Cross-platform",
+        "Mobile"
+      ],
+      "description": " - What’s flutter?\r\n - About Dart\r\n - Initial Setup\r\n - Project Structure\r\n - About Widgets\r\n - About Stateless Widgets\r\n - About Hot Reload\r\n - About GestureDetector\r\n - About Stateful Widgets\r\n - Demo and Samples\r\n",
+      "socials": [
+        {
+          "icon": "fas fa-link",
+          "name": "Link",
+          "link": "https://www.linkedin.com/in/juan-camacho-a54928107/"
+        }
+      ]
+    },
+    {
+      "nombre": "Luis Matos",
+      "hora": "11:00 AM",
+      "Pais": "Dominican Republic",
+      "charla": "Introduction to the Blockchain world",
+      "abstract": "A lot of people want to get involved in this new blockchain's era. Today you can improve the security and trust offered to users by creating smart applications connected to a blockchain. Now it’s time to get the next level without getting out of your environment. Are you ready?",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "tags": [
+        "Infrastructure",
+        "Arquitectura",
+        "Estructuras",
+        "Security",
+        "Seguridad",
+        "Devops",
+        "Colombia",
+        "Inteligencia Artificial",
+        "Architecture",
+        "Infrastructura",
+        "blockchain",
+        "bitcoin",
+        "Open source"
+      ],
+      "description": "With Blockchain, we can decentralize transactions by removing the middle-man and creating a secure record shared by hundreds of devices, even millions. Azure provides us a Blockchain Development Kit that simplifies development using blockchain for web and mobile applications. This allows us to integrate blockchain into our applications without the need for a blockchain team.",
+      "socials": [
+        {
+          "icon": "fas fa-link",
+          "name": "Link",
+          "link": "https://luismts.com/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/luismatosluna"
+        }
+      ]
+    },
+    {
+      "nombre": "Raúl Montero",
+      "hora": "02:00 PM",
+      "abstract": "No todo es 200 OK. Debemos preparar nuestras apps para que sean tolerantes a fallos de red, pudiendo funcionar a pesar de estos.Trabajar offline, registrar errores y deshabitar funcionalidades son algunas estrategias que estaremos viendo para evitar a toda costa los fallos y perdida de información",
+      "charla": "Creando apps tolerantes a las fallas de conexión",
+      "formato": "Workshop (> 60 minutes)",
+      "audienceLevel": "Intermediate",
+      "tags": [
+        "csharp",
+        "xamarin",
+        "mobile"
+      ],
+      "description": "No importa que tipo de aplicación hagas, algo es seguro, tienes que conectarte algún servicio para obtener la información con la que vas a trabajar. Sin embargo, nada garantiza que estos servicios estén disponibles 100% del tiempo, entonces, ¿Cómo reaccionamos cuando no podemos contar con ellos?",
+      "socials": [
+        {
+          "icon": "fas fa-link",
+          "name": "Link",
+          "link": "https://raulmonteroc.com/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/raulmonteroc"
+        }
+      ]
+    },
+    {
+      "nombre": "Max Almonte",
+      "hora": "03:00 PM",
+      "charla": "Mejores prácticas en el desarrollo de APIs REST",
+      "abstract": "El desarrollo de APIs REST es cada vez más extendido en el mundo del desarrollo de software debido al auge de las aplicaciones móviles y SPAs, por desgracia muchas de estas APIs no siguen los estándares REST y terminan volviéndose un dolor de cabeza, propongo dar a conocer las mejores prácticas.",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "tags": [
+        "REST",
+        "OpenAPI",
+        "API",
+        "Web Development",
+        "Desarrollo Web"
+      ],
+      "description": "En esta charla repasaremos los principios del desarrollo de APIs REST expuestos por Phil Sturgeon en el famoso libro [Build APIs You Won't Hate](https://apisyouwonthate.com/books/build-apis-you-wont-hate), así como muchos temas más.\r\n\r\nVerás desde cómo nombrar tus endpoints hasta cómo documentar y añadir pruebas unitarias, aprenderás la manera correcta de usar los verbos y códigos HTTP, entre otras cosas.",
+      "socials": [
+        {
+          "icon": "fas fa-link",
+          "name": "Link",
+          "link": "https://devalmonte.com"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/maxalmonte14"
+        }
+      ]
+    },
+    {
+      "nombre": "Ramiro Pulgar",
+      "Pais": "Ecuador",
+      "hora": "04:00 PM",
+      "abstract": "Esta presentación está enfocada a dar dirección al área operativa de un CSIRT/SOC para implementar herramientas Open Source alineadas al NIST Cyber Security Framework.",
+      "charla": "Tu CSIRT en un chasquido con Open Source",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "tags": [
+        "opensource",
+        "threathunting",
+        "csirt",
+        "cybersecurity",
+        "purpleteam",
+        "Open source"
+      ],
+      "description": "Esta presentación propone la implementación operativa de herramientas open source en cada una de las fases del NIST Cybersecurity Framework para que no sea complejo ni costoso a los equipos CSIRT y SOC de Compañías de todos los tamaños que tienen como estrategia la Implementación de Ciberseguridad. Esta implementación invita a llegar a un nivel de madurez adecuado para iniciar el Threat Hunting.",
+      "socials": [
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/milovisho"
+        },
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com/in/ramiropulgar/"
+        }
+      ]
+    },
+    {
+      "nombre": "Freddy Peña",
+      "hora": "09:00 AM",
+      "bio": "- Java Developer y IT Manager, con más 10 años de experiencia en desarrollo bajo tecnología Java \n - Más de 4 años de experiencia administrando e implementando proyecto con SAP Business One \n - Amante del Open Source \n- Graduado de informática, con un Máster en Ingeniería Web. \n- Profesor en PUCMM y el TEP \n- Mimbro de la comunidad Código Libre Dominicana",
+      "charla": "Arquitectura reactiva (Vert.x): Diseñando API RESTful",
+      "abstract": "En esta desconferencia vamos a conocer el concepto de aplicaciones reactivas, y se mostrara como diseñar y consumir un API RESTful a través del protocolo HTTP, utilizando Vert.x basándose en arquitectura reactiva.",
+      "description": "Vivimos en un entorno tremendamente cambiante donde los requerimientos de las aplicaciones han variado drásticamente en los últimos años, cada día queremos aplicaciones capaces de procesar más y más datos, con la misma cantidad de recursos. Los teléfonos inteligentes y el auge del loT incrementan el número de usuarios concurrentes, los cuales esperan que su tiempo de respuesta sean de milisegundos o microsegundos. Lo que ha demandado a que nuestras aplicaciones deban ser reactivas. Es evidente que debemos considerar usar nuevas tecnologías y nuevos paradigmas de programación para poder satisfacer los niveles necesarios, y así obtener aplicaciones reactivas. En esta desconferencia vamos a conocer el concepto de aplicaciones reactivas, y se mostrara como diseñar y consumir un API RESTful a través del protocolo HTTP, utilizando Vert.x basándose en arquitectura reactiva.",
+      "formato": "Talk (~30-45 minutes)",
+      "tags": [
+        "Java",
+        "Vert.x",
+        "Aplicaciones Reactivas API",
+        "REST",
+        "RESTful",
+        "HTTP"
+      ],
+      "audienceLevel": "All",
+      "socials": [
+        {
+          "icon": "fab fa-github-alt",
+          "name": "Github",
+          "link": "https://github.com/fredpena"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/fred_pena"
+        }
+      ]
+    },
+    {
+      "nombre": "Ever Miguel Curiel",
+      "charla": "A friendly introduction to QA",
+      "hora": "10:00 AM",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "abstract": "In the last decade QA has become one of the most fast growing careers in the tech industry at Dominican Republic.That's why now its an excellent time to become a SQA professional and build world wide reference as our country grow and continues building high quality software.",
+      "tags": [
+        "Software testing",
+        "Quality Assurance",
+        "Tester",
+        "Quality Software"
+      ],
+      "description": "What is quality? Where does quality begins? and better yet, why quality? even if these questions sound really basic and simple, the wrong answer to them have created long lasting negative impact over software projects for a long time.",
+      "socials": [
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "https://do.linkedin.com/in/evercuriel"
+        }
+      ]
+    },
+    {
+      "nombre": "Yhorby Matías",
+      "hora": "11:00 AM",
+      "charla": "Build intelligents Apps",
+      "abstract": "Learn how to Microsoft's cloud platform to build data-driven intelligent apps and how to leverage innovative scalable Cloud Backend Services for your applications.",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "Intermediate",
+      "tags": [
+        "C#",
+        "Azure",
+        "Xamarin",
+        "CosmosDB",
+        "API",
+        "IA",
+        "DevOps"
+      ],
+      "description": "Use your existing skills and the tools Take advantage of a comprehensive set of services, infrastructure, and tools to build AI-powered experiences. Build bots that naturally interact with users and built-in advanced analytics tools to make faster predictions.",
+      "socials": [
+        {
+          "icon": "fas fa-link",
+          "name": "Link",
+          "link": "https://www.ymatias.com/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/yhorbymatias"
+        }
+      ]
+    },
+    {
+      "nombre": "Valmis Di Carlo Hidalgo",
+      "hora": "02:00 PM",
+      "abstract": "La Ciberseguridad en las empresas es una de las ramas de las Tecnologíás de la Información más descuidadas por falta de asesoramiento y altos conocimientos en el campo laboral, con nuestra charla vamos a concientizar a los espectadores la importancia de esta área y sus  tecnologías.",
+      "charla": "Tecnologías y Prácticas de Ciberseguridad para Empresas",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "tags": [
+        "Open source",
+        "Cloud computing",
+        "Cybersecurity"
+      ],
+      "description": "En esta participación estaremos mostrando herramientas tales como: Firewalls, VPN, IPS, Log Server, SIEM; entre otras, todas con soluciones basadas en Software Libre y Open Source.",
+      "socials": [
+        {
+          "icon": "fas fa-link",
+          "name": "Link",
+          "link": "http://www.dicatech.net/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/valmis"
+        }
+      ]
+    },
+    {
+      "nombre": "Robert Lluberes",
+      "hora": "03:00 PM",
+      "charla": "Inyectando esteroides a tu Web API en .NET Core con OData",
+      "abstract": "Imagina un API que retorna mas de 1K objetos, con 10 campos, pero a algunos clientes les interesa los últimos 10 objetos y 5 campos. ¿Qué opciones tienes?, desarrollar otro Endpoint o filtra del lado del cliente. OData te soluciona ambos, por eso deseo compartir este estándar de consulta de datos.",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "Intermediate",
+      "tags": [
+        ".NET Core",
+        "OData",
+        "Web APIs",
+        "tech"
+      ],
+      "description": "",
+      "socials": [
+        {
+          "icon": "fas fa-link",
+          "name": "Link",
+          "link": "https://robertlluberes.com"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/robertlluberes"
+        }
+      ]
+    },
+    {
+      "nombre": "Shailyn Ortíz",
+      "hora": "04:00 PM",
+      "charla": "Jenkins-X: Kubernetes GitOps!",
+      "formato": "Talk (~30-45 minutes)",
+      "abstract": "Keeping up with cloud technologies isn't easy, implementing them takes time, increase the complexity and requires a certain lever of expertise to successfully implement them. What If there is an easier way? Join me in this talk and learn how jenkins-x can provide easy kubenertes cluster management.",
+      "audienceLevel": "Beginner",
+      "tags": [
+        "devops",
+        "deployments",
+        "Open source",
+        "Cloud computing",
+        "Containers"
+      ],
+      "description": "GitOps is a way to do Kubernetes cluster management and application delivery. It works by using Git as a single source of truth for declarative infrastructure and applications. With Git at the center of your delivery pipelines, developers can make pull requests to accelerate and simplify application deployments and operations tasks to Kubernetes. Let me show you how to achieve this by leveraging Jenkins-X.",
+      "socials": [
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/ROOT_OR_DEATH"
+        }
+      ]
+    },
+    {
+      "nombre": "Eudris Cabrera Rodríguez",
+      "hora": "09:00 AM",
+      "charla": "Seguridad para aplicaciones Web Java con JSON Web Tokens (JWT)",
+      "bio": "Ingeniero Telemático (Egresado de PUCMM). Actualmente Desarrollador Informático en el Ministerio de Hacienda de la República Dominicana.  Entusiasta de la tecnología y el software libre, desarrollador Java, instructor ocasional (Java / Linux), aficionado del béisbol/sóftbol y los bailes latinos.\r\n\r\nGanador de la beca Linux Training Scholarship 2014 en la categoría Developer Do-Gooder. Miembro asociado del JCP (Java Community Process).  Co-fundador / Organizador del grupo de usuarios Java (Java User Group )  \"Java Dominicano\"\r\n\r\nEn el tiempo libre, escribe artículos, realiza charlas y ayuda en la revisión de documentación técnica en el mundo Java y el código abierto.\r\n",
+      "audienceLevel": "Intermediate",
+      "formato": "Talk (~30-45 minutes",
+      "abstract": "En esta sesión vamos a explorar como podemos utilizar JSON Web Tokens en aplicaciones web y servicios REST Java.  Así como también,  las principales soluciones para autenticación y autorización que ofrecen soporte para JWT.",
+      "description": "JSON Web Token, comúnmente conocidos como JWT, es un estándar abierto (RFC 7519) que define un modo compacto y autónomo para transmitir de forma segura la información entre las partes como un objeto JSON. JWT define un formato estandar para autenticación y autorización . Su utilización ha ganado popularidad en los últimos años porque permite que los servidores acepten solicitudes simplemente validando el contenido de estos JWTS.\r\n\r\nEs decir, las aplicaciones que usan JWTS ya no tienen que contener cookies u otros datos de sesión sobre sus usuarios. Esta característica facilita la escalabilidad mientras mantiene las aplicaciones seguras.\r\n\r\nEn esta sesión vamos a explorar como podemos utilizar JSON Web Tokens en aplicaciones web y servicios REST Java. También estudiaremos las principales soluciones para autenticación y autorización que ofrecen soporte para JWT.\r\n",
+      "tags": [
+        "Security",
+        "Java",
+        "JWT",
+        "Cloud computing"
+      ],
+      "socials": [
+        {
+          "icon": "fas fa-link",
+          "name": "Link",
+          "link": "http://eudriscabrera.com"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/eudriscabrera"
+        }
+      ]
+    },
+    {
+      "nombre": "Gabriel Acosta Núñez",
+      "hora": "10:00 AM",
+      "charla": "Building App Xamarin forms Using Uno platform",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "abstract": "El desarrollo de aplicaciones multiplataforma para Windows, iOS, Android y WebAssembly puede ser un proceso complejo, especialmente cuando se trata de la interfaz de usuario. En esta charla descubrirás el potencial de La única plataforma para crear aplicaciones nativas móviles, de escritorio y de WebAssembly con C #, XAML desde una única base de código. Código abierto y profesionalmente compatible.",
+      "tags": [
+        "Programming",
+        "Xamarin",
+        "C#"
+      ],
+      "description": "El desarrollo de aplicaciones multiplataforma para Windows, iOS, Android y WebAssembly puede ser un proceso complejo, especialmente cuando se trata de la interfaz de usuario. Cada plataforma tiene sus propias formas de definir diseños dinámicos, algunos son más eficientes, otros más detallados, algunos más elegantes y otros más eficaces que otros. En esta charla descubrirás el potencial de La única plataforma para crear aplicaciones nativas móviles, de escritorio y de WebAssembly con C #, XAML desde una única base de código. Código abierto y profesionalmente compatible.",
+      "socials": [
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/gacostadev"
+        }
+      ]
+    },
+    {
+      "nombre": "Fidelia Matos",
+      "hora": "11:00 AM",
+      "bio": "8+ años como desarrolladora de software. Facilitadora y directora de operaciones de Code4Ladies. Miembro activo de Mujeres TICs RD. Voluntaria de GDG Santo Domingo. Ganadora del premio de mención honorífica en el Startup Weekend Fintech 2019. Graduada con honores de Técnico Profesional en Informática.",
+      "charla": "Paquete UTL_FILE: Manejando Archivos de Textos con PL/SQL",
+      "abstract": "Imaginemos, tenemos que crear un proceso que consulte una BD y escriba la info en un archivo de texto; o que lea un archivo para insertar la data en la BD. La mayoría de los programadores lo codifican con un lenguaje de backend, pero ¿y si te digo es más fácil y rápido codificarlo desde la misma BD?",
+      "description": "La mayoría de los programadores proceden a utilizar un lenguaje de backend para crear un proceso o aplicación que se conecte a una base de datos (en este caso, Oracle), la consulte y escriba la información en un archivo de texto o que lea un archivo para insertar la data en la base de datos; sin embargo, es posible hacer todo esto desde la misma base de datos, creando un proceso PL/SQL, lo cual resulta más fácil y rápido para el desarrollador, evitando la necesidad de tener un proceso o aplicación corriendo adicional a la base de datos. Esto también es una solución para personas del área de TI que no poseen conocimientos de algún lenguaje de backend, pero sí conocen sobre instrucciones PL/SQL y requieren desarrollar una funcionalidad como esta.",
+      "formato": "Talk (~30-45 minutes)",
+      "tags": [
+        "Oracle",
+        "PL/SQL",
+        "UTL_FILE",
+        "Database"
+      ],
+      "audienceLevel": "All",
+      "socials": [
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com/in/fideliamatos"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/fideliamatos"
+        }
+      ]
+    },
+    {
+      "nombre": "Juan Thomas Angel y José Manuel Martinez",
+      "hora": "02:00 PM",
+      "abstract": "¿Eres uno de miles desarrolladores que entienden que han invertido demasiado tiempo escribiendo código repetitivo? Que en esta desconferencia aprenderás cómo Framework LoopBack 4 te ayudará a mejorar tu productividad y te asegurará una construcción robusta de tus API’s REST en cuestión de minutos.",
+      "charla": "Loopback 4: Tu REST API en minutos",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "Intermediate",
+      "tags": [
+        "JavaScript",
+        "Loopback",
+        "node.js",
+        "Express",
+        "REST API"
+      ],
+      "description": "¿Eres uno de cientos de miles de desarrolladores que entienden que han invertido demasiado tiempo escribiendo código repetitivo para tus REST APIs? Descuida, que en esta desconferencia aprenderás cómo el poderoso framework LoopBack 4 te ayudará a mejorar tu productividad y te asegurará una construcción robusta de tus API’s REST en cuestión de minutos, haciéndose cargo de los requerimientos técnicos fundamentales, y dejándote a ti más tiempo para definir los requerimientos funcionales y las reglas de negocio. LoopBack 4 es un framework Node.js basado en Express, de fuente abierta, y altamente extensible, basado en Express, desarrollado por StrongLoop de IBM, que te permite crear rápidamente APIs y microservicios, compuesto de sistemas de backend, como bases de datos y servicios SOAP o REST. Está orientado para desarrolladores de API’s, facilita el desarrollo en equipo, y puede ser utilizado para construir frameworks, plataformas, librerías, y ser integrado con bases de datos, servicios web y otras plataformas por vía de conectores. Loopback permite conectarse a varias fuentes de datos, y relacionarlas entre sí, permitiendo mantener la integridad de los datos, y de obtener todos los datos relevantes con cada consulta, sin importar las distintas fuentes consultadas. También posee un explorador de los distintos servicios, que permiten hacer consultas en tiempo real.",
+      "socials": []
+    },
+    {
+      "nombre": "Franklin Castillo",
+      "hora": "03:00 PM",
+      "charla": "JAMstack, the new Modern Web Architecture",
+      "abstract": "JAMstack es una arquitectura moderna de desarrollo web. No es un lenguaje de programación ni ninguna forma de herramienta. Es más una práctica de desarrollo web destinada a hacer cumplir un mejor rendimiento, una mayor seguridad, un menor costo de escala y una mejor experiencia del desarrollador.",
+      "formato": "Talk (~30-45 minutes",
+      "audienceLevel": "All",
+      "tags": [
+        "Serverless",
+        "Javascript",
+        "JAMstack",
+        "Gatsby",
+        "React",
+        "Netlify",
+        "Open source"
+      ],
+      "description": "**Problema**\r\n\r\nIndependientemente de cuán bien optimicemos todo o cuán bueno sea el trabajo que hacemos con el rendimiento percibido, los sitios web dinámicos son lentos... Esto se debe a la cantidad de pasos que deben realizarse para mostrar el contenido solicitado cada vez que alguien visita una página web.\r\n\r\nSitios webs cargados abrumadoramente de complementos, scripts y otras tantas cosas enviadas a producción. A esto se le suma las preocupaciones de seguridad, el alojamiento costoso y el panorama cambiante de los diferentes idiomas que un desarrollador debe aprender a construir un sitio web.\r\n\r\n**Solución**\r\n\r\nEntonces, repensemos nuestro enfoque para crear sitios web dinámicos y comencemos desde cero.\r\n\r\nVeámoslo de una manera simple, JAMstack se refiere a una nueva forma o método de creación de sitios web y aplicaciones que ofrece un mejor rendimiento, mayor seguridad, menor costo de escala y una mejor experiencia de desarrollador.\r\n\r\n**Takeways**\r\n\r\n  - JAMstacks overview\r\n  - JAMstacks vs la manera tradicional\r\n  - Como sacar provecho a las Serverless APIs en JAM\r\n  - Static Site Generators\r\n  - Ventajas para End-user and Developers\r\n\r\n",
+      "socials": [
+        {
+          "icon": "fas fa-link",
+          "name": "Link",
+          "link": "https://about.me/fcastillo18"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/fcastillo181"
+        }
+      ]
+    },
+    {
+      "nombre": "Juan José Polanco Arias",
+      "bio": "",
+      "hora": "04:00 PM",
+      "charla": "GDPR (General Data Protection Regulation)",
+      "abstract": "es una regulación de privacidad datos de la Union Europea que entro en vigencia el 25 de Mayo de 2018, cuyo objetivo darle poder al usuario de decidir si alguna aplicacion (web, movil, etc.) pueden recolectar sus datos y que tambien dicta el manejo adecuado que las companias tecnológicas que recolectan esos datos deben darle a los mismos.",
+      "description": "",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All"
+    },
+    {
+      "nombre": "Candy Marte García",
+      "hora": "05:00 PM",
+      "abstract": "Sesgo de supervivencia, es cuando miramos las cosas que sobrevivieron cuando deberíamos centrarnos en las que no. Este fenómeno impacta negativamente la vida profesional ya que a la hora de hacer correcciones no se ataca lo más importante. En esta charla descubriremos cómo identificarlo y superarlo.",
+      "charla": "Sesgo de supervivencia y cómo superarlo",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "tags": [
+        "#CrecimientoProfesional",
+        "#Tecnología",
+        "#HabilidadesBlandas",
+        "#AnalisisdeNegocio"
+      ],
+      "description": "Cuando tiene algún inconveniente que debe solucionar, ¿se concentra solamente en hacer mejor lo que ha quedado o analiza lo que no se pudo lograr? La mayoría de personas eligen solo lo primero, este fenómeno se llama sesgo de supervivencia, es cuando miramos las cosas que sobrevivieron cuando deberíamos centrarnos en las que no. En esta charla descubriremos cómo identificarlo y cómo superarlo para lograr un cambio tangible en nuestro crecimiento profesional.",
+      "socials": [
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com/in/candymarte/"
+        }
+      ]
+    }
+  ]
+}
