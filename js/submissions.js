@@ -24,8 +24,13 @@ const submissions = [
                 "link": "http://twitter.com/alexmarket"
             },
             {
-                "icon": "fas fa-link",
-                "name": "Link",
+                "icon": "fab fa-linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/alexmarket/"
+            },
+            {
+                "icon": "fab fa-medium",
+                "name": "Medium",
                 "link": "https://medium.com/@alexmarket"
             }
         ],
@@ -35,7 +40,7 @@ const submissions = [
     {
         "name": "Leonardo Jimenez",
         "bio": "Leonardo is an Industrial Engineer that fell in love with the web. \r\n\r\nHe has been developing web based solutions  this whole decade, mainly with Django.  Leo (you can call me this way) is the creator of PyCaribbean and also the organizer of Python Dominicana. The local Python Usergroup in Dominican Republic.",
-        "avatar": "https://secure.gravatar.com/avatar/09bcb9efed1d368e2099f38b075e890b?s=500",
+        "avatar": "img/speakers/leonardo_jimenez.jpg",
         "country": null,
         "talk": {
             "schedule": null,
@@ -55,9 +60,14 @@ const submissions = [
                 "link": "http://twitter.com/leonardoajim"
             },
             {
-                "icon": "fas fa-link",
-                "name": "Link",
-                "link": ""
+                "icon": "fab fa-instagram",
+                "name": "Instagram",
+                "link": "https://www.instagram.com/indielancer/"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/leonardoajimenez"
             }
         ],
         "status": "accepted",
@@ -66,7 +76,7 @@ const submissions = [
     {
         "name": "Luis Matos",
         "bio": "Luis Matos, a systems engineer, specializes in software development. Partner and technological projects Leader in Malla Agency; Company dedicated to the process automation.\r\n\r\nHe began his career and gained experience in the labor market through software development, collaborating on numerous projects for various companies with a national and international presence.\r\n\r\nLover of mobility and mobile development, an area where today he is known for his collaborations through among others that he has provided to different communities. In the same way, he is a member, founder, and active collaborator of different technology communities.\r\n\r\nPassionate about disruptive technologies, a movement that has led him to graduate from Blockchain Executive at the EOI Business School in Madrid, Spain.\r\n\r\nHighlight that it has been his skills in areas of design, marketing, and business that have differentiated and promoted his professional career.",
-        "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/40586/Luis_Matos_-_Sonriendo2.png",
+        "avatar": "img/speakers/luis_matos.png",
         "country": "Dominican Republic",
         "talk": {
             "schedule": null,
@@ -93,6 +103,21 @@ const submissions = [
                 "link": "http://twitter.com/luismatosluna"
             },
             {
+                "icon": "fab fa-instagram",
+                "name": "Instagram",
+                "link": "https://www.instagram.com/luismatosluna/"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/luismatosluna"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "name": "Youtube",
+                "link": "https://www.youtube.com/c/luismatosluna"
+            },
+            {
                 "icon": "fas fa-link",
                 "name": "Link",
                 "link": "https://luismts.com/"
@@ -104,7 +129,7 @@ const submissions = [
     {
         "name": "Luis Contreras",
         "bio": "I'm a Senior Monitoring Engineer with an expertise in Monitoring solutions like (Nagios, Centreon, Icinga, Op5 and Zabbix). I have a proven experience in System / Network Administration, and developing monitoring projects, including complex integrations and developing plugins in Python, PHP and PowerShell. My experience is based in Retail, Government, Health and IT Services industry.\r\n\r\nSince 2005 I've been speaker in Opensource technologies within and outside of the country, and in 2013 I got the honor on receiving a Nagios MVP for my contribution to Nagios community.\r\n",
-        "avatar": "https://secure.gravatar.com/avatar/1b5677e6883576696553cddd57a5b385?s=500",
+        "avatar": "img/speakers/luis_contreras.png",
         "country": "Dominican Republic",
         "talk": {
             "schedule": null,
@@ -122,9 +147,14 @@ const submissions = [
                 "link": "http://twitter.com/doluiscontreras"
             },
             {
+                "icon": "fab fa-linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/luiscontrerasdo/"
+            },
+            {
                 "icon": "fas fa-link",
                 "name": "Link",
-                "link": "https://www.linkedin.com/in/luiscontrerasdo/"
+                "link": "https://maestrodelmonitoreo.blogspot.com/"
             }
         ],
         "status": "accepted",
@@ -133,7 +163,7 @@ const submissions = [
     {
         "name": "Gregory Pilar",
         "bio": "",
-        "avatar": "https://secure.gravatar.com/avatar/3820d5e4717898aefc74de9d5a989f1f?s=500",
+        "avatar": "img/speakers/gregory_pilar.jpg",
         "country": "Santo Domingo, RD",
         "talk": {
             "schedule": null,
@@ -156,9 +186,19 @@ const submissions = [
                 "link": "http://twitter.com/gregorypilar"
             },
             {
-                "icon": "fas fa-link",
-                "name": "Link",
+                "icon": "fab fa-instagram",
+                "name": "Instagram",
+                "link": "https://www.instagram.com/gregorypilar/"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "name": "LinkedIn",
                 "link": "https://www.linkedin.com/in/gregorypilar/"
+            },
+            {
+                "icon": "fab fa-github-alt",
+                "name": "GitHub",
+                "link": "https://github.com/gregorypilar"
             }
         ],
         "status": "accepted",
@@ -167,7 +207,7 @@ const submissions = [
     {
         "name": "Anuard Michel\u00e9n",
         "bio": "Con 10 a\u00f1os de experiencia en el \u00e1rea de calidad de software. Es cofundador del Instituto Dominicano de Calidad de Software IDCAS, entidad pionera en el pa\u00eds en la promoci\u00f3n y formaci\u00f3n del \u00e1rea. Ha colaborado en importantes proyectos a nivel nacional e internacional. Cuenta con la certificaci\u00f3n emitida por el comit\u00e9 internacional de calidad de software (ISTQB) para el nivel Foundation y certificado como Professional Testing Master por la Universidad tecnol\u00f3gica Nacional Facultad Regional Buenos Aires.",
-        "avatar": "https://secure.gravatar.com/avatar/e75fa646335ad282f4521c90c378be4f?s=500",
+        "avatar": "img/speakers/anuard_michelen.jpg",
         "country": null,
         "talk": {
             "schedule": null,
@@ -189,9 +229,19 @@ const submissions = [
                 "link": "http://twitter.com/anuardmichelen"
             },
             {
+                "icon": "fab fa-instagram",
+                "name": "Instagram",
+                "link": "https://www.instagram.com/anuardmichelen/"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/anuard-michel%C3%A9n-04a304122/"
+            },
+            {
                 "icon": "fas fa-link",
                 "name": "Link",
-                "link": "https://www.instagram.com/idcas_rd/?hl=es-la"
+                "link": "https://idcas.edu.do/"
             }
         ],
         "status": "accepted",
@@ -200,7 +250,7 @@ const submissions = [
     {
         "name": "Eury Perez",
         "bio": "I am an Android developer passionate of building exciting things. Software development has been my day to day for the last 8+ years. I work for X-Team as a Senior Android Developer. I also 've got experience with iOS development using Swift.\r\n\r\nI enjoy teaching programming to young people, I have experience teaching in two of the most prestigious schools in Santo Domingo (Carol Morgan School and Conexus). I also train IT teams of big companies in Santo Domingo.",
-        "avatar": "https://secure.gravatar.com/avatar/9a6803ad1647c2ed5bc4d59ef5a160e5?s=500",
+        "avatar": "img/speakers/eury_perez.png",
         "country": null,
         "talk": {
             "schedule": null,
@@ -225,6 +275,16 @@ const submissions = [
                 "link": "http://twitter.com/_euryperez"
             },
             {
+                "icon": "fab fa-linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/euryperez/"
+            },
+            {
+                "icon": "fab fa-medium",
+                "name": "Medium",
+                "link": "https://medium.com/@euryperez"
+            },
+            {
                 "icon": "fas fa-link",
                 "name": "Link",
                 "link": "https://euryperez.dev"
@@ -236,7 +296,7 @@ const submissions = [
     {
         "name": "Fernando Paulino",
         "bio": "\r\nVisionary of user experience and technology. Systems and computing engineer/ MBA Student, worked wit Digital banking experience from Banco Popular Dominicano,BHD, Banreservas, Technology products specialist, Product owner / Product manager, Quality control, Requirements and user experience, from a sub banking agent, ATM, Internet banking, to mobile banking and the core. Certification of requirements with users.-SQA of projects of continuous improvement and innovation. -QA of the first Dominican financial chatbot",
-        "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/50211/Fernando_3.jpg",
+        "avatar": "img/speakers/fernando_paulino.jpg",
         "country": "Dominican Republic",
         "talk": {
             "schedule": null,
@@ -257,9 +317,9 @@ const submissions = [
                 "link": "http://twitter.com/Paulino"
             },
             {
-                "icon": "fas fa-link",
-                "name": "Link",
-                "link": ""
+                "icon": "fab fa-linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/fernando-paulino-927308132/"
             }
         ],
         "status": "accepted",
@@ -268,7 +328,7 @@ const submissions = [
     {
         "name": "Carlos Est\u00e9vez",
         "bio": "More than 14 years of experience in SAP working with solution like SAP Retail, MM, SD, SAP POSDM (PIPE) and SAP Forecasting and Replenishment (F&R).\r\n\r\nI have participated in different projects as a SAP Retail, POSDM and F&R consultant.\r\nDuring my projects I\u2019ve been responsible of different process like:\r\n\r\n-Retail and Sales Operations\r\n-Point of Sales process and integration\r\n-Point of Sales analysis\r\n-Planning Operations\r\n-Procurement Operation\r\n-Master Data\r\nAnd others.\r\n\r\nMost of my projects are completely implementation so I have worked in all SAP phases working with the customer closely and elaborating the different documents in each phase of the project like:\r\n\r\n-AS-IS Documents\r\n-To-Be Documents or Business BluePrint\r\n-Development Specification documents\r\n-Testing documents\r\n-and Others.\r\n\r\n\u201cPersonal Quote\u201d\r\n\r\nWhen I talk to my customer I always tell them that the process which is not measured can\u2019t be improved, so I believe that every process can be improved and simplified and I always try to offer my services as a Senior Consultant to get the Costumers to achieve this goal.",
-        "avatar": "https://secure.gravatar.com/avatar/66a4be29b7ce8daf5ca1c7cba00f9847?s=500",
+        "avatar": "img/speakers/carlos_estevez.png",
         "country": "Mexico",
         "talk": {
             "schedule": null,
@@ -286,11 +346,6 @@ const submissions = [
         ],
         "socials": [
             {
-                "icon": "fab fa-twitter",
-                "name": "Twitter",
-                "link": "http://twitter.com/"
-            },
-            {
                 "icon": "fas fa-link",
                 "name": "Link",
                 "link": "http://www.lspconsulting.com.mx"
@@ -302,7 +357,7 @@ const submissions = [
     {
         "name": "Mitra Mejia",
         "bio": "Mitra es un ingeniero de software con alrededor de 7 a\u00f1os de experiencia. Comenz\u00f3 a desarrollar software e-commerce. Mientras trabajaba a medio tiempo, se fue desarrollando como freelancer. Unos a\u00f1os m\u00e1s tarde, estaba consiguiendo m\u00e1s negocio como freelancer que como empleado.\r\n\r\nCuando lleg\u00f3 el momento, se mud\u00f3 de Rep\u00fablica Dominicana a Nueva York. Dos semanas despu\u00e9s de aterrizar en Nueva York, fue contratado por la consultoria de software [Wunderkind](https://wunderkind.nyc/), donde implement\u00f3 aplicaciones React / React-Native. Actualmente trabaja en [Petal](https://www.petalcard.com/), una de las mejores startups de fintech en Nueva York.",
-        "avatar": "https://secure.gravatar.com/avatar/13c33355a473c3d39ccfddfd9a499864?s=500",
+        "avatar": "img/speakers/mitra_mejia.jpg",
         "country": null,
         "talk": {
             "schedule": null,
@@ -321,12 +376,27 @@ const submissions = [
             {
                 "icon": "fab fa-twitter",
                 "name": "Twitter",
-                "link": "http://twitter.com/mitramejia"
+                "link": "https://twitter.com/mitramejia"
+            },
+            {
+                "icon": "fab fa-instagram",
+                "name": "Instagram",
+                "link": "https://www.instagram.com/mitramejia/"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/mitramejía"
+            },
+            {
+                "icon": "fab fa-github-alt",
+                "name": "GitHub",
+                "link": "https://github.com/mitramejia"
             },
             {
                 "icon": "fas fa-link",
                 "name": "Link",
-                "link": "https://mitramejia.com"
+                "link": "https://mitramejia.com/"
             }
         ],
         "status": "accepted",
@@ -335,7 +405,7 @@ const submissions = [
     {
         "name": "Fred Pe\u00f1a",
         "bio": "Java Developer, IT Manager y  Profesor por pasi\u00f3n, adicto a la Ingenier\u00eda de Software, con m\u00e1s de 10 a\u00f1os de experiencias, y una s\u00f3lidas formaci\u00f3n en Ingenier\u00eda Web.\r\n\r\n Amante del Open Source, cafe, Rock, y las diversas culturas gastronom\u00edca.\r\n\r\nInter\u00e9s constante por la actualizaci\u00f3n de los temas relacionados a tecnolog\u00eda.",
-        "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/56718/Foto_.jpg",
+        "avatar": "img/speakers/freddy_pena.jpg",
         "country": "Santiago R.D.",
         "talk": {
             "schedule": null,
@@ -364,12 +434,17 @@ const submissions = [
             {
                 "icon": "fab fa-twitter",
                 "name": "Twitter",
-                "link": "http://twitter.com/"
+                "link": "https://twitter.com/fred_pena"
             },
             {
-                "icon": "fas fa-link",
-                "name": "Link",
-                "link": ""
+                "icon": "fab fa-linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/fantpena"
+            },
+            {
+                "icon": "fab fa-github-alt",
+                "name": "GitHub",
+                "link": "https://github.com/fredpena"
             }
         ],
         "status": "accepted",
@@ -378,7 +453,7 @@ const submissions = [
     {
         "name": "Juan Diego Lopez",
         "bio": "Juan Diego L\u00f3pez, estudiante de Ingenier\u00eda de Sistemas y Computaci\u00f3n, y desarrollador de software con experiencia en desarrollo web y m\u00f3vil. Actualmente trabajo en NTI (Net Tech International). Desarollo en varios lenguajes de programaci\u00f3n como: \r\n* Java\r\n- Quarkus\r\n- Vert.x\r\n- Spring Boot\r\n* Javascript\r\n- NodeJS\r\n- React\r\n- React Native\r\n* Go\r\n* PHP \r\n- Laravel\r\n- Symfony\r\n* Entre otros...\r\n",
-        "avatar": "https://secure.gravatar.com/avatar/dcc6a938357ac4874aca6b35a72a3dd6?s=500",
+        "avatar": "img/speakers/juan_diego_lopez.jpg",
         "country": null,
         "talk": {
             "schedule": null,
@@ -400,12 +475,22 @@ const submissions = [
             {
                 "icon": "fab fa-twitter",
                 "name": "Twitter",
-                "link": "http://twitter.com/_juandiii"
+                "link": "https://twitter.com/_juandiii"
             },
             {
-                "icon": "fas fa-link",
-                "name": "Link",
-                "link": ""
+                "icon": "fab fa-instagram",
+                "name": "Instagram",
+                "link": "https://www.instagram.com/juandiii_/"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/juan-diego-lopez-5066881ab/"
+            },
+            {
+                "icon": "fab fa-github-alt",
+                "name": "GitHub",
+                "link": "https://github.com/juandiii"
             }
         ],
         "status": "accepted",
@@ -414,7 +499,7 @@ const submissions = [
     {
         "name": "Jos\u00e9 Manuel Mart\u00ednez",
         "bio": "Dominican software engineering student. Web developer and data science enthusiast.",
-        "avatar": "https://secure.gravatar.com/avatar/30be83e02f4469d3960b950383d35f6c?s=500",
+        "avatar": "img/speakers/jose_martinez.jpg",
         "country": null,
         "talk": {
             "schedule": null,
@@ -434,14 +519,19 @@ const submissions = [
         ],
         "socials": [
             {
-                "icon": "fab fa-twitter",
-                "name": "Twitter",
-                "link": "http://twitter.com/"
+                "icon": "fab fa-instagram",
+                "name": "Instagram",
+                "link": "https://www.instagram.com/josemartinezgs/"
             },
             {
-                "icon": "fas fa-link",
-                "name": "Link",
-                "link": ""
+                "icon": "fab fa-linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/jose-manuel-martinez-garcia-661753173/"
+            },
+            {
+                "icon": "fab fa-github-alt",
+                "name": "GitHub",
+                "link": "https://github.com/josemartinezg"
             }
         ],
         "status": "accepted",
