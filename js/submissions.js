@@ -536,5 +536,45 @@ const submissions = [
         ],
         "status": "accepted",
         "confirmed": false
+    },
+    {
+        "name": "Hector Ventura Reyes",
+        "bio": "Hola, \r\n\r\nSoy Hector Ventura, ingeniero en sistemas **con m\u00e1s de 8 de experiencias en arquitectura y desarrollo de aplicaciones**. Actualmente trabajo para GreenLink Networks una empresa que reside en EEUU y que ofrece servicios de VoIP. Fu\u00ed profesor en Administraci\u00f3n de Sistemas Linux en la Fundaci\u00f3n C\u00f3digo Libre Dominicana por 2 a\u00f1os (2008-2010)  y profesor en de programaci\u00f3n en el ITLA desde 2017 hasta 2020.",
+        "avatar": "img/speakers/hector_ventura.jpg",
+        "country": null,
+        "talk": {
+            "schedule": null,
+            "title": "Ansible, La m\u00e1s simple herramienta de automatizaci\u00f3n",
+            "abstract": "Desplegar applicaciones en un gran numero de servidores y acceder a cada uno de ellos y repetir la misma oraci\u00f3n es un tarea ardua... Ansible entra en la escena y nos ayudara hacer despliegue, configuraci\u00f3n, provisioning y manejo de sistemas e infraestructura.",
+            "description": "",
+            "format": "Talk (30 minutes)",
+            "audience_level": "All"
+        },
+        "tags": [
+            "Ansible",
+            "deploy",
+            "configure",
+            "manage",
+            "tool"
+        ],
+        "socials": [
+            {
+                "icon": "fab fa-twitter",
+                "name": "Twitter",
+                "link": "http://twitter.com/hectorvent"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/hectorvent/"
+            },
+            {
+                "icon": "fab fa-github-alt",
+                "name": "GitHub",
+                "link": "https://github.com/hectorvent"
+            }
+        ],
+        "status": "accepted",
+        "confirmed": false
     }
 ];
