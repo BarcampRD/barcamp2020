@@ -1,3 +1,25 @@
+const initConferences = conferences => {
+
+    const conferencesContainer = document.getElementById('conferences-list');
+
+    for (let index = 0; index < conferences.length; index++) {
+
+        const conference = conferences[index];
+
+        const listItem = document.createElement('li');
+        listItem.innerHTML = `<div class="row"><div class="col-lg-2">${conference.talk.schedule}</div></div>`; 
+        
+        const container = document.createElement('div');
+        container.classList.add('col-lg-9');
+        container.innerHTML = `<h5>${conference.talk.title}</h5>
+        <p><i>Por: ${conference.name}</i></p>
+        <p>${conference.talk.abstract}</p>`;
+        // TODO: view more button
+        listItem.children[0].appendChild(container);
+        conferencesContainer.appendChild(listItem);
+    }
+}
+
 const initSpeakers = speakers => {
 
     const speakersContainer = document.getElementById('speakers-container');
@@ -72,5 +94,6 @@ const initSpeakers = speakers => {
 
 document.addEventListener('DOMContentLoaded', () => {
 
+    initConferences(submissions);
     initSpeakers(submissions);
 });
