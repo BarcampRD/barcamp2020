@@ -227,7 +227,7 @@ const submissions = [
     {
         "name": "César A. Vargas Pérez",
         "bio": "Hola! Mi nombre César Vargas, Ingeniero de Sistemas y Computación,  ex-alumno de la PUCMM-STI. Mi curiosiodad por el desarrollo de Software empezó a los 16 años, cuand programé un microcontrolador usando Assembly (shout-out to IPISA!!!) para manejar los estados de un semaforo inteligente. Desde el 2018 estoy trabajando como Ingeniero de Software en Resonance, un StartUp con HeadQuarters en NYC, USA y centros de manufactura aquí, en Santiago de los Caballeros. Cloud-computing, Big Data, Flows Automationsm y hacer crecer mi equipo es mi día a día. ",
-        "avatar": "https://secure.gravatar.com/avatar/12ff587de4d7978049c05f789f8177fd?s=500",
+        "avatar": "img/speakers/cesar_vargas.jpg",
         "country": null,
         "talk": {
             "schedule": "12:30 PM",
@@ -384,7 +384,7 @@ const submissions = [
     {
         "name": "Alejandro Mercado",
         "bio": "Experienced Web & Mobile Developer with a demonstrated history of working in the information technology and services industry. My current stack is TS, JS, Angular, Svelte, NativeScript, and other web-related technologies, adding DevOps functions to my belt.\r\nI have been involved in business strategy roles for software companies like SAP, Progress, Unity, Appcelerator, Adobe, MongoDB, and LPI.\r\nGitLab Hero, Auth0 Ambassador, Git Kraken Ambassador, GitHub Campus Advisor, Progress NativeScript Expert.\r\nTechnical writer and international speaker.\r\n",
-        "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/40728/2000-01-01_00.49.18.jpg",
+        "avatar": "img/speakers/alejandro_mercado.jpg",
         "country": "Mexico",
         "talk": {
             "schedule": "2:30 PM",
@@ -555,6 +555,30 @@ const submissions = [
                 "link": "https://euryperez.dev"
             }
         ],
+        "status": "accepted",
+        "confirmed": true
+    },
+    {
+        "name": "Emilio Ferreyra",
+        "bio": "Soy Emilio Ferreyra, ingeniero en Software,  con más de 15 años de experiencia en el sector tecnológico. Amante de GNU/Linux y el software libre. Ciclista de montaña de ocasión. Autodidacta por vocación. Creo que Python rockea y que puedes extender tu mente con Django.",
+        "avatar": "img/speakers/emilio_ferreyra.png",
+        "country": "Dominican Republic",
+        "talk": {
+            "schedule": "4:30 PM",
+            "title": "Explorando Jupyter Notebook",
+            "abstract": "El objetivo de esta desconferencia es dar a conocer las virtudes de Jupyter Notebook a la hora de desarrollar y documentar software, tales como crear y compartir documentos que contienen código vivo, excelente para demostraciones, documentación, pruebas de conceptos y la creación de prototipos y por supuesto a nivel educativo.",
+            "description": "Explicaremos las principales características que hacen del proyecto Jupyter una solución a tomar en cuenta para optimizar el flujo de trabajo en el desarrollo y documentación de software, independientemente del lenguaje de programación utilizado, puesto que soporta múltiples lenguajes tales como Java, C#, Ruby, R, Python, entre otros.",
+            "format": "Talk (30 minutes)",
+            "audience_level": "All"
+        },
+        "tags": [
+            "python",
+            "opensource",
+            "education",
+            "development",
+            "django"
+        ],
+        "socials": [],
         "status": "accepted",
         "confirmed": true
     }
