@@ -297,10 +297,10 @@ const submissions = [
         "confirmed": true
     },
     {
-        "name": "Jos\u00e9 Manuel Mart\u00ednez",
+        "name": "Jos\u00e9 Mart\u00ednez y Juan \u00C1ngel",
         "bio": "Dominican software engineering student. Web developer and data science enthusiast.",
-        "avatar": "img/speakers/jose_martinez.jpg",
-        "country": null,
+        "avatar": "img/speakers/jmartinez_jangel.jpeg",
+        "country": "Santiago, República Dominicana",
         "talk": {
             "schedule": "1:30 PM",
             "title": " \u00a1Facilita tus dashboards con Metabase!",
@@ -335,7 +335,7 @@ const submissions = [
             }
         ],
         "status": "accepted",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "Gregory Pilar",
@@ -474,7 +474,7 @@ const submissions = [
     },
     {
         "name": "Hector Ventura Reyes",
-        "bio": "Hola, \r\n\r\nSoy Hector Ventura, ingeniero en sistemas **con m\u00e1s de 8 de experiencias en arquitectura y desarrollo de aplicaciones**. Actualmente trabajo para GreenLink Networks una empresa que reside en EEUU y que ofrece servicios de VoIP. Fu\u00ed profesor en Administraci\u00f3n de Sistemas Linux en la Fundaci\u00f3n C\u00f3digo Libre Dominicana por 2 a\u00f1os (2008-2010)  y profesor en de programaci\u00f3n en el ITLA desde 2017 hasta 2020.",
+        "bio": "Hola, \r\n\r\nSoy Hector Ventura, ingeniero en sistemas con m\u00e1s de 8 de experiencias en arquitectura y desarrollo de aplicaciones. Actualmente trabajo para GreenLink Networks una empresa que reside en EEUU y que ofrece servicios de VoIP. Fu\u00ed profesor en Administraci\u00f3n de Sistemas Linux en la Fundaci\u00f3n C\u00f3digo Libre Dominicana por 2 a\u00f1os (2008-2010)  y profesor en de programaci\u00f3n en el ITLA desde 2017 hasta 2020.",
         "avatar": "img/speakers/hector_ventura.jpg",
         "country": null,
         "talk": {
