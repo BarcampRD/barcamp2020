@@ -22,7 +22,7 @@ const initConferences = conferences => {
         conferencesContainer.appendChild(listItem);
     }
 
-    conferencesContainer.innerHTML += `<li><div class="row"><div class="col-lg-1">5:00 PM</div><div class="col-lg-9"><h5>Panel</h5>
+    conferencesContainer.innerHTML += `<li><div class="row"><div class="col-lg-1">5:00 PM</div><div class="col-lg-9"><h5>De ISC a ICC: Evolución de la carrera en la PUCMM al celebrar sus 40 años</h5>
     </div><div class="col-lg-1"><a href="https://www.crowdcast.io/e/barcamp-rd-2020/17" target="_blank"><h5>Ver en CrowdCast</h5></a></div></div></li>`;
 }
 
