@@ -1,6 +1,8 @@
 const initConferences = conferences => {
 
     const conferencesContainer = document.getElementById('conferences-list');
+    conferencesContainer.innerHTML += `<li><div class="row"><div class="col-lg-1">9:00 AM</div><div class="col-lg-9"><h5>Bienvenida</h5>
+    </div><div class="col-lg-1"><a href="https://www.crowdcast.io/e/barcamp-rd-2020/1" target="_blank"><h5>Ver en CrowdCast</h5></a></div></div></li>`;
 
     for (let index = 0; index < conferences.length; index++) {
 
@@ -19,6 +21,9 @@ const initConferences = conferences => {
         listItem.children[0].innerHTML += `<div class="col-lg-1"><a href="https://www.crowdcast.io/e/barcamp-rd-2020/${index+2}" target="_blank"><h5>Ver en CrowdCast</h5></a></div>`;
         conferencesContainer.appendChild(listItem);
     }
+
+    conferencesContainer.innerHTML += `<li><div class="row"><div class="col-lg-1">5:30 PM</div><div class="col-lg-9"><h5>Panel</h5>
+    </div><div class="col-lg-1"><a href="https://www.crowdcast.io/e/barcamp-rd-2020/18" target="_blank"><h5>Ver en CrowdCast</h5></a></div></div></li>`;
 }
 
 const initSpeakers = speakers => {
