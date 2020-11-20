@@ -256,7 +256,7 @@ const submissions = [
         "talk": {
             "schedule": "1:00 PM",
             "title": "Hunting software engineering jobs",
-            "abstract": "La pandemia del COVID-18 le dio duro a mi entonces empleador, por ello comenc\u00e9 a buscar un cambio. Luego de docenas de contactos y aplicaciones a diferentes compa\u00f1\u00edas de USA, logre salir adelante. En esta charla describir\u00e9 las estrategias que me han funcionado para conseguir buenas ofertas en USA.",
+            "abstract": "La pandemia del COVID-19 le dio duro a mi entonces empleador, por ello comenc\u00e9 a buscar un cambio. Luego de docenas de contactos y aplicaciones a diferentes compa\u00f1\u00edas de USA, logre salir adelante. En esta charla describir\u00e9 las estrategias que me han funcionado para conseguir buenas ofertas en USA.",
             "description": "Conseguir trabajo como ingeniero de software puede ser complicado. En los ultimos 4 meses he aplicado a docenas de compa\u00f1ias, conseguido multiples entrevistas y ofertas. Para lograr esto tuve que refinar estrategias y enfrentar situaciones inesperadas. Hablar\u00e9 sobre el proceso completo, desde buscar potenciales compa\u00f1ias, entrevistarse, como evaluar una oferta, como cambiar de empresa, como renunciar dignamente, entre otros temas.",
             "format": "Talk (30 minutes)",
             "audience_level": "All"
