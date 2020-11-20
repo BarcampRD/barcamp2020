@@ -22,7 +22,7 @@ const initConferences = conferences => {
         conferencesContainer.appendChild(listItem);
     }
 
-    conferencesContainer.innerHTML += `<li><div class="row"><div class="col-lg-1">5:00 PM</div><div class="col-lg-9"><h5>De ISC a ICC: Evolución de la carrera en la PUCMM al celebrar sus 40 años</h5>
+    conferencesContainer.innerHTML += `<li><div class="row"><div class="col-lg-1">5:00 PM</div><div class="col-lg-9"><h5>De ISC a ICC: Evolución de la carrera en la PUCMM al celebrar sus 40 años</h5><p>Este panel busca dar un repaso por los orígenes y evolución de la carrera de Ingeniería de Sistemas y Computación de la PUCMM con motivo de celebrarse su 40 aniversario y dar a conocer el nuevo plan de estudios, el cual presenta actualizaciones significativas. Estarán participando los directores pasados y actuales de la carrera.</p>
     </div><div class="col-lg-1"><a href="https://www.crowdcast.io/e/barcamp-rd-2020/17" target="_blank"><h5>Ver en CrowdCast</h5></a></div></div></li>`;
 }
 
